@@ -1,76 +1,88 @@
-## 繁华落尽 ， 平淡归真
-When all the splendor fades, we return to simplicity and truth.  
-  
+# 繁华落尽，平淡归真  
+> When all the splendor fades, we return to simplicity and truth.
 
-<a href="https://github.com/handashaui" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://x.com/KatharineB5412?t=EjeYiiBk71OexUdm5dyVeQ&s=09" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
+---
 
-  
+## 👋 About Me
 
+- 🎓 Data Science Undergraduate @ Wuhan University  
+- 🤖 Focused on **AI / Machine Learning / Agent Systems**  
+- 📈 Currently building projects in:
+  - ML systems & pipelines  
+  - Sports analytics (Kaggle NCAA)  
+  - Personal AI tools  
 
-  
+- 🌍 Planning for graduate study in **Canada (2027)**  
+- ⚡ Interested in turning ideas into real products  
 
-<br/>  
+---
 
+## 🚀 Current Focus
 
-## 个人信息
-<table><tr><td valign="top" width="50%">
+- 🧠 Machine Learning Engineering (MLE)
+- ⚙️ End-to-end ML pipelines (feature → model → deployment)
+- 🧩 Agent-based systems & LLM applications
+- 📊 Improving real-world modeling skills (Kaggle / projects)
 
-- a green hand at coding .
-  
+---
 
-- learning cs50x，cs61a  
-  
+## 🧪 Projects
 
-- faith in AGI  
+### 🏀 NCAA March Madness Prediction (Kaggle)
+- Built full pipeline: data → features → model → submission  
+- Features: Elo, seed, team stats, Massey ratings  
+- Model: regression + probability calibration  
+- Goal: achieve medal-level performance (~0.10 Brier)
 
+---
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
-</div>  
+### 🧠 Personal AI Knowledge System (ongoing)
+- Local-first knowledge base (privacy-focused)
+- Structured personal data (notes / images / ideas)
+- AI-assisted retrieval & reasoning
 
-<br/>  
+---
 
+## 🛠 Tech Stack
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+**Languages**
+- Python (main)
+- C++ / C
+- JavaScript
 
-<img src="https://github-readme-stats.vercel.app/api?username=handashuai&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+**ML / Data**
+- PyTorch
+- scikit-learn
+- XGBoost / LightGBM
 
-</td><td valign="top" width="50%">
+**Backend / Tools**
+- FastAPI
+- Git / Linux
+- Nginx
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handashuai&hide_border=true&layout=compact" align="left" style="width: 100%" />
+---
 
-</td></tr></table>  
+## 📊 GitHub Stats
 
-<br/>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=handashuai&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handashuai&layout=compact&hide_border=true" />
+</p>
 
-  
+---
 
-<br/>  
+## 🌱 Philosophy
 
-![Profile views counter](https://komarev.com/ghpvc/?username=handashuai&&style=flat-square)  
-  
+> Build things.  
+> Think from first principles.  
+> Stay simple, stay real.
 
-<br/>  
+---
 
+## 🔗 Connect
 
-<br />
+- GitHub: https://github.com/handashaui  
+- Twitter: https://x.com/KatharineB5412  
+
+---
+
